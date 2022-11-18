@@ -1,4 +1,4 @@
-# berita2
+# Berita
 
 A new Flutter project.
 
